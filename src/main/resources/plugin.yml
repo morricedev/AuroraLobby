@@ -1,0 +1,9 @@
+name: AuroraLobby
+main: me.morrice.morrice
+version: 0.1
+author: Morrice
+description: Plugin introdutório ao meu aprendizado.
+commands:
+  ajuda:
+  discord:
+  links:
